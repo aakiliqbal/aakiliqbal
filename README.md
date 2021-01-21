@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-aakiliqbal.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21irrtfluhypc3j7q5nxu4qvi)
+[![Spotify](https://aakiliqbal.vercel.app/api/spotify)](https://open.spotify.com/user/21irrtfluhypc3j7q5nxu4qvi)
 
 ### Connect with me:
 

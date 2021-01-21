@@ -26,7 +26,7 @@
 
 <br />
 
-#### Languages and Tools : &nbsp;
+###### Languages and Tools : &nbsp;
 
 #### :desktop_computer: Front End : &nbsp;[<img align="center" src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white&labelColor=E34F26&color=E34F26" alt="HTML" />](https://en.wikipedia.org/wiki/HTML)&nbsp; [<img align="center" src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"  alt="CSS" />](https://en.wikipedia.org/wiki/CSS) &nbsp; [<img align="center" src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E"  alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 

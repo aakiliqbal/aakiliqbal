@@ -26,11 +26,13 @@
 
 <br />
 
-#### :Languages and Tools : &nbsp;
+#### Languages and Tools : &nbsp;
 
 #### :desktop_computer: Front End : &nbsp;[<img align="center" src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white&labelColor=E34F26&color=E34F26" alt="HTML" />](https://en.wikipedia.org/wiki/HTML)&nbsp; [<img align="center" src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"  alt="CSS" />](https://en.wikipedia.org/wiki/CSS) &nbsp; [<img align="center" src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E"  alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 
 #### :file_cabinet: Back End :&nbsp; [<img align="center" src="https://img.shields.io/badge/FIREBASE-blue?logo=firebase&logoColor=black&labelColor=FFCA28&color=FFCA28"  alt="Firebase" />](https://firebase.google.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/PYTHON3-blue?logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python" />](https://www.python.org/)
+
+#### 🎮 Game Developer Tools : &nbsp; [<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;[<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" align="center"  alt="Unity" />](https://unity.com/)
 
 #### :joystick: Other Tools : &nbsp; [<img align="center" src="https://img.shields.io/badge/VSCODE-blue?logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=007ACC"  alt="VSCode" />](https://code.visualstudio.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/BRAVE-blue?&logoColor=white&labelColor=orange&color=orange"  alt="React" />](https://brave.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/CHROME-blue?logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4"  alt="Chrome" />](https://chrome.google.com/) &nbsp;[<img src="https://img.shields.io/badge/POSTMAN-blue?logo=postman&logoColor=white&labelColor=FF6C37&color=FF6C37" align="center"  alt="Postman" />](https://www.postman.com/)
 

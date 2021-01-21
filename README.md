@@ -5,6 +5,8 @@
 
 ## I'm a Student!!
 
+<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="20px">
+
 - 🌱 I’m currently learning everything 🤣
 - :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -24,7 +26,10 @@
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
+
+
+### :joystick: Other Tools : &nbsp; [<img align="center" src="https://img.shields.io/badge/VSCODE-blue?logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=007ACC"  alt="VSCode" />](https://code.visualstudio.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/BRAVE-blue?&logoColor=white&labelColor=orange&color=orange"  alt="React" />](https://brave.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/CHROME-blue?logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4"  alt="Chrome" />](https://chrome.google.com/) &nbsp;[<img src="https://img.shields.io/badge/POSTMAN-blue?logo=postman&logoColor=white&labelColor=FF6C37&color=FF6C37" align="center"  alt="Postman" />](https://www.postman.com/)
 
 
 <br />

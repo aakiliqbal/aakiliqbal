@@ -1,7 +1,7 @@
 ### Hi there, I'm Aakil Iqbal - aka [CodeBlack][website] 👋
 
-[![Website](https://img.shields.io/badge/aakiliqbal.co-UP-green)](https://aakiliqbal.co)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40aakiliqbal645&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Faakiliqbal645)](https://twitter.com/aakiliqbal645)
+[![Website](https://img.shields.io/website?style=flat-square&up_message=aakiliqbal.co&url=https%3A%2F%2Faakiliqbal.co)](https://aakiliqbal.co)
+[![Twitter URL](https://img.shields.io/twitter/follow/aakiliqbal645?color=%231DA1F2&logo=twitter&style=flat-square](https://twitter.com/aakiliqbal645)
 
 ## I'm a Student!!
 

@@ -6,7 +6,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games 🎮
 

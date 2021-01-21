@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://aakiliqbal.vercel.app/api/spotify)](https://open.spotify.com/user/21irrtfluhypc3j7q5nxu4qvi)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 ### Connect with me:
 
@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/karanS1ngh/login/pull/3) in [karanS1ngh/login](https://github.com/karanS1ngh/login)
+1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)

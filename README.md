@@ -1,7 +1,7 @@
 ### Hi there, I'm Aakil Iqbal - aka [CodeBlack][website] 👋
 
 [![Website](https://img.shields.io/badge/aakiliqbal.co-UP-green)](https://aakiliqbal.co)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40aakiliqbal645&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faakiliqbal645)](https://twitter.com/aakiliqbal645)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40aakiliqbal645&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Faakiliqbal645)](https://twitter.com/aakiliqbal645)
 
 ## I'm a Student!!
 
@@ -45,10 +45,10 @@
 ---
 
 <details>
-  ### :zap: Recent Activity
+  <summary>:zap: Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/karanS1ngh/login/pull/3) in [karanS1ngh/login](https://github.com/karanS1ngh/login)
+  1. 💪 Opened PR [#3](https://github.com/karanS1ngh/login/pull/3) in [karanS1ngh/login](https://github.com/karanS1ngh/login)
   2. 🎉 Merged PR [#104](https://github.com/madlabsinc/teachcode/pull/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
   3. ❗️ Closed issue [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
   4. ❌ Closed PR [#11504](https://github.com/webpack/webpack/pull/11504) in [webpack/webpack](https://github.com/webpack/webpack)

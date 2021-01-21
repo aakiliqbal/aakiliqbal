@@ -8,7 +8,6 @@
 ## I'm a Student!!
 
 <img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="300px">
-<br></br>
 
 - 🌱 I’m currently learning everything 🤣
 - :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.

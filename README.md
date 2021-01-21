@@ -1,4 +1,4 @@
-<img align="center" src="/loading.gif"  height="150px" width="850px">
+<img align="center" src="/loading.gif"  height="130px" width="900px">
 
 ### Hi there, I'm Aakil Iqbal - aka [CodeBlack][website] 👋
 

@@ -58,7 +58,7 @@
   <summary>:zap: Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-  1. 💪 Opened PR [#3](https://github.com/karanS1ngh/login/pull/3) in [karanS1ngh/login](https://github.com/karanS1ngh/login)
+1. 💪 Opened PR [#3](https://github.com/karanS1ngh/login/pull/3) in [karanS1ngh/login](https://github.com/karanS1ngh/login)
   2. 🎉 Merged PR [#104](https://github.com/madlabsinc/teachcode/pull/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
   3. ❗️ Closed issue [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
   4. ❌ Closed PR [#11504](https://github.com/webpack/webpack/pull/11504) in [webpack/webpack](https://github.com/webpack/webpack)

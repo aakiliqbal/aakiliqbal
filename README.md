@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/website?style=flat-square&up_message=aakiliqbal.co&url=https%3A%2F%2Faakiliqbal.co)](https://aakiliqbal.co)
 [![Twitter URL](https://img.shields.io/twitter/follow/aakiliqbal645?color=%231DA1F2&logo=twitter&style=flat-square)](https://twitter.com/aakiliqbal645)
-<img src="https://visitor-badge.glitch.me/badge?page_id=aakiliqbal.aakiliqbal"/>
-
+![Visitors URL](https://visitor-badge.glitch.me/badge?page_id=aakiliqbal.aakiliqbal)
 ## I'm a Student!!
 
 <img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="200px">

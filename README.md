@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: Recent Activity</summary>
 
-<!--START_SECTION:activity-->
+  <!--START_SECTION:activity-->
 
 
 </details>

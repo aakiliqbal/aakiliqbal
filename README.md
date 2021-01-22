@@ -15,6 +15,7 @@
 - ⚡ Fun fact: I love to draw and play video games 🎮
 
 ### Spotify Playing 🎧
+[]: # "This is not my spotify app, as I did not play spotify 24 hr. So this is novatorem app, you can visit his github profile."
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 

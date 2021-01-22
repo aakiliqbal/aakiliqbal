@@ -1,4 +1,4 @@
-<img align="center" src="/loading.gif"  height="10%" width="100%">
+<img align="center" src="/loading.gif"  height="auto" width="100%">
 
 # Hi there, I'm Aakil Iqbal - aka [CodeBlack][website] 👋
 
@@ -7,7 +7,7 @@
 ![Visitors URL](https://visitor-badge.glitch.me/badge?page_id=aakiliqbal.aakiliqbal)
 ## I'm a Student!!
 
-<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="300px">
+<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="auto" width="50%">
 
 - 🌱 I’m currently learning everything 🤣
 - :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.

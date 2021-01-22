@@ -55,14 +55,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Activity</summary>
-
-  <!--START_SECTION:activity-->
-
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=aakiliqbal&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />

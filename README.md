@@ -40,11 +40,6 @@
 
 
 
-### Dino Game 🕹
-
-![dinogame](https://aakiliqbal.github.io/web.io/dinogame/)
-
-
 ---
 
 ### 📺 Latest YouTube Videos

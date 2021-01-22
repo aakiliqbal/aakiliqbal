@@ -7,7 +7,7 @@
 ![Visitors URL](https://visitor-badge.glitch.me/badge?page_id=aakiliqbal.aakiliqbal)
 ## I'm a Student!!
 
-<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="auto" width="50%">
+<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif"  height="auto" width="40%">
 
 - 🌱 I’m currently learning everything 🤣
 - :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.

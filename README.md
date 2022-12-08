@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aakil Iqbal - aka [CodeBlack][website] 👋
 
-[![Website](https://img.shields.io/website?style=flat-square&up_message=aakiliqbal.co&url=https%3A%2F%2Faakiliqbal.co)](https://aakiliqbal.co)
+[![Website](https://img.shields.io/website?style=flat-square&up_message=aakiliqbal.co&url=https%3A%2F%2Faakiliqbal.co)](https://www.showwcase.com/aakiliqbal)
 [![Twitter URL](https://img.shields.io/twitter/follow/aakiliqbal645?color=%231DA1F2&logo=twitter&style=flat-square)](https://twitter.com/aakiliqbal645)
 ![Visitors URL](https://visitor-badge.glitch.me/badge?page_id=aakiliqbal.aakiliqbal)
 ## I'm a Student!!
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - :mortar_board: I'm an engineering student at KIET GROUP OF INSTITUTION, Ghaziabad.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games 🎮
 
 ### Spotify Playing 🎧

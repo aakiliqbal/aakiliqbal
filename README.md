@@ -67,8 +67,18 @@
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
+![Snake animation](https://github.com/aakiliqbal/aakiliqbal/blob/output/github-contribution-grid-snake.svg)
+
 [website]: https://aakiliqbal.co
 [twitter]: https://twitter.com/aakiliqbal645
 [youtube]: https://www.youtube.com/channel/UCXK4VE1yIjPBquHIpZi5uMA
 [instagram]: https://www.instagram.com/aakiliqbal/
 [linkedin]: https://www.linkedin.com/in/aakiliqbal/
+
+

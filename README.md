@@ -73,7 +73,6 @@
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/aakiliqbal/aakiliqbal/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://aakiliqbal.co
 [twitter]: https://twitter.com/aakiliqbal645

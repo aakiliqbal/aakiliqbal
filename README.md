@@ -53,22 +53,6 @@ I'm a passionate backend developer with a knack for building scalable APIs and o
 [<img align="center" src="https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white&labelColor=0052CC&color=0052CC" alt="Jira" />](https://www.atlassian.com/software/jira)
 [<img align="center" src="https://img.shields.io/badge/New%20Relic-blue?logo=newrelic&logoColor=white&labelColor=0080B0&color=0080B0" alt="New Relic" />](https://newrelic.com/)
 
-### Featured Projects:
-
-- **WhatsApp Chat Analyzer** (Python, Streamlit, Pandas)  
-  A Streamlit app that analyzes WhatsApp chat data, offering insights through interactive visualizations like message frequency and user activity trends.  
-  [View Project](https://github.com/aakiliqbal/whatsapp-chat-analyzer)
-
-- **Job Portal** (Angular, Spring Boot, JWT)  
-  Built a full-stack job portal with advanced search and secure authentication, enabling seamless job applications and user management.  
-  [View Project](https://github.com/aakiliqbal/job-portal)
-
-### Achievements:
-
-- 🏆 **Top Performer of the Quarter** at Wipro for exceeding performance goals
-- 🌟 **Victory League Award** for leadership in a successful project release
-- 🎖 **AWS Certified Cloud Practitioner**
-
 ---
 
 ### 📺 Latest YouTube Videos

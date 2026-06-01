@@ -5,7 +5,7 @@
 
 ## About Me
 
-<img align="right" src="https://github.com/aakiliqbal/web.io/blob/master/portfolio/img/about.gif" height="200px" alt="About animation">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🌱 I’m currently learning and building with modern web technologies.
 - 🥅 Goal: Contribute more to open source projects.

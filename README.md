@@ -1,7 +1,7 @@
 ### Hi there, I'm Aakil Iqbal 👋
 
-[![Blog](https://img.shields.io/badge/Blog-Read%20More-orange?style=flat-square)](https://aakiliqbal.github.io/blog/about/)
-[![Twitter](https://img.shields.io/twitter/follow/aakiliqbal645?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/aakiliqbal645)
+[![Blog](https://img.shields.io/badge/Blog-Read%20More-orange?style=flat-square)](https://aakiliqbal.github.io/blog/)
+[![Twitter](https://img.shields.io/twitter/follow/iqbalthepal?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/iqbalthepal)
 
 ## About Me
 
@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ![Frontend](https://img.shields.io/badge/Frontend-21262d?style=flat-square)<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)

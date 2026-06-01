@@ -11,60 +11,98 @@
 - 🥅 Goal: Contribute more to open source projects.
 - ⚡ Fun fact: I love to draw and play video games.
 
-## Connect With Me
+<br/>
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Tech Stack</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<br />
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-#### Languages and Tools : &nbsp;
+![Backend](https://img.shields.io/badge/Backend-21262d?style=flat-square)<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6C3483?style=flat-square&logoColor=white)
 
-#### :desktop_computer: Front End : &nbsp;[<img align="center" src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white&labelColor=E34F26&color=E34F26" alt="HTML" />](https://en.wikipedia.org/wiki/HTML)&nbsp; [<img align="center" src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"  alt="CSS" />](https://en.wikipedia.org/wiki/CSS) &nbsp; [<img align="center" src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E"  alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
+![Data & Messaging](https://img.shields.io/badge/Data_%26_Messaging-21262d?style=flat-square)<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-#### :file_cabinet: Back End :&nbsp; [<img align="center" src="https://img.shields.io/badge/FIREBASE-blue?logo=firebase&logoColor=black&labelColor=FFCA28&color=FFCA28"  alt="Firebase" />](https://firebase.google.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/PYTHON3-blue?logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python" />](https://www.python.org/)
+![Frontend](https://img.shields.io/badge/Frontend-21262d?style=flat-square)<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🎮 Game Developer Tools : &nbsp; [<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;[<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" align="center"  alt="Unity" />](https://unity.com/)
+</td>
+    <td valign="top" width="50%">
 
-#### :joystick: Other Tools : &nbsp; [<img align="center" src="https://img.shields.io/badge/VSCODE-blue?logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=007ACC"  alt="VSCode" />](https://code.visualstudio.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/BRAVE-blue?&logoColor=white&labelColor=orange&color=orange"  alt="React" />](https://brave.com/) &nbsp;[<img align="center" src="https://img.shields.io/badge/CHROME-blue?logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4"  alt="Chrome" />](https://chrome.google.com/) &nbsp;[<img src="https://img.shields.io/badge/POSTMAN-blue?logo=postman&logoColor=white&labelColor=FF6C37&color=FF6C37" align="center"  alt="Postman" />](https://www.postman.com/)
+![DevOps & CI/CD](https://img.shields.io/badge/DevOps_%26_CI%2FCD-21262d?style=flat-square)<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub Stats And Graphs
+![Testing](https://img.shields.io/badge/Testing-21262d?style=flat-square)<br/>
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<img src="https://github-profile-trophy.vercel.app/?username=aakiliqbal&theme=chartreuse-dark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+![Tools](https://img.shields.io/badge/Tools-21262d?style=flat-square)<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<br />
+</td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aakiliqbal&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" align="center" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakiliqbal&layout=compact&theme=chartreuse-dark&langs_count=8&hide_border=true" alt="GitHub Top Languages" align="center" width="40%" />
 
-<br />
+📈<b> Contribution Graph</b>
 
-<img src="https://streak-stats.demolab.com?user=aakiliqbal&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakiliqbal&theme=chartreuse_dark&utcOffset=5.5" alt="Productive Time" width="48%" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakiliqbal&theme=github-compact&hide_border=true&area=true&hide_title=true)](https://aakiliqbal.github.io/blog)
 
-<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakiliqbal/aakiliqbal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakiliqbal/aakiliqbal/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aakiliqbal/aakiliqbal/output/github-snake.svg">
+  </picture>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakiliqbal&theme=chartreuse_dark" alt="GitHub Profile Summary" width="100%" />
 
-<br />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakiliqbal&theme=chartreuse-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
 
-<br />
+
+  </summary>
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <a href="https://aakiliqbal.github.io/blog">
+      <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aakiliqbal&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+    </a>
+    <a href="https://aakiliqbal.github.io/blog">
+      <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=aakiliqbal&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+    </a>
+    <br/>
+    <a href="https://aakiliqbal.github.io/blog">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aakiliqbal&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+    </a>
+  </div>
+
+  <br/>
 
 <b>Note:</b> These stats only reflect public GitHub repositories and do not represent my full skill set.
-
-## Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/aakiliqbal/aakiliqbal/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/aakiliqbal/aakiliqbal/output/github-snake-dark.svg#gh-dark-mode-only)
-
-## Visit My Blog
-
-Looking for more information? [Click here to read about me on my blog.](https://aakiliqbal.github.io/blog/about/)
 
 [twitter]: https://twitter.com/iqbalthepal
 [youtube]: https://www.youtube.com/channel/UCXK4VE1yIjPBquHIpZi5uMA

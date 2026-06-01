@@ -3,8 +3,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Read%20More-orange?style=flat-square)](https://aakiliqbal.github.io/blog/)
 [![Twitter](https://img.shields.io/twitter/follow/iqbalthepal?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/iqbalthepal)
 
-## About Me
-
+### About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🌱 I’m currently learning and building with modern web technologies.
